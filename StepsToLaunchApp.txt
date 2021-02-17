@@ -1,0 +1,11 @@
+softwares required
+=================
+1) Node js
+2) Git
+
+
+Steps:
+========
+1) to this current path (react-api-example) and open terminal and execute command "npm install"  (this will install required node modules)
+2) execute command "npm start" (this will start dev server)
+3) open browser to launch app "http://localhost:3000/"
